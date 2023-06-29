@@ -1,0 +1,3 @@
+displayName = Fishing Records
+author = Tomat & Nalyddd
+version = 1.0.0
